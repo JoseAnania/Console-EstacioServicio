@@ -1,0 +1,7 @@
+C:\Users\José\Desktop\Dev\C#\Consola\EstacionServicios\EstacionServicios\obj\Debug\EstacionServicios.csprojAssemblyReference.cache
+C:\Users\José\Desktop\Dev\C#\Consola\EstacionServicios\EstacionServicios\obj\Debug\EstacionServicios.csproj.CoreCompileInputs.cache
+C:\Users\José\Desktop\Dev\C#\Consola\EstacionServicios\EstacionServicios\bin\Debug\EstacionServicios.exe.config
+C:\Users\José\Desktop\Dev\C#\Consola\EstacionServicios\EstacionServicios\bin\Debug\EstacionServicios.exe
+C:\Users\José\Desktop\Dev\C#\Consola\EstacionServicios\EstacionServicios\bin\Debug\EstacionServicios.pdb
+C:\Users\José\Desktop\Dev\C#\Consola\EstacionServicios\EstacionServicios\obj\Debug\EstacionServicios.exe
+C:\Users\José\Desktop\Dev\C#\Consola\EstacionServicios\EstacionServicios\obj\Debug\EstacionServicios.pdb
